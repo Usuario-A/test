@@ -7,5 +7,6 @@ test
 
 
 
-<a href="https://github.com/GTAC-ITEAM-UPV/test/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributorsGTAC-ITEAM-UPV/test?color=2b9348"></a>
+<a href="https://github.com/GTAC-ITEAM-UPV/test/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GTAC-ITEAM-UPV/test?color=2b9348"></a>
+<a href="https://github.com/minoveaz/github-perfil-readme-asombrosos/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/minoveaz/github-perfil-readme-asombrosos?color=2b9348"></a>
 
