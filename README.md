@@ -19,6 +19,8 @@ test
 <img alt="Issues" src="https://img.shields.io/github/issues/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/>
 <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/>
 
+<img src="https://img.shields.io/github/tag/GTAC-ITEAM-UPV/test.svg" /> 
+
 
 ![GitHub all releases](https://img.shields.io/github/downloads/GTAC-ITEAM-UPV/test/total)
 
