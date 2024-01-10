@@ -10,3 +10,10 @@ test
 
 
 <a href="https://github.com/GTAC-ITEAM-UPV/test/network/members"><img src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/test" alt="Forks Badge"/></a>
+
+
+<a href="https://github.com/GTAC-ITEAM-UPV/test"><b>React PullToRefresh component</b></a></td>
+<img alt="Stars" src="https://img.shields.io/github/stars/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/></td>
+<img alt="Forks" src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/></td>
+<img alt="Issues" src="https://img.shields.io/github/issues/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/></td>
+<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/></td>
