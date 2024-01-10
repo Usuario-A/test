@@ -11,5 +11,4 @@ test
 <a href="https://github.com/GTAC-ITEAM-UPV/test/stargazers"><img src="https://img.shields.io/github/stars/GTAC-ITEAM-UPV/test" alt="Stars Badge"/></a>
 <a href="https://github.com/GTAC-ITEAM-UPV/test/network/members"><img src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/test" alt="Forks Badge"/></a>
 
-
-  <a href="https://github.com/minoveaz/github-perfil-readme-asombrosos/issues"><img src="https://img.shields.io/github/issues/minoveaz/github-perfil-readme-asombrosos" alt="Issues Badge"/></a>
+<a href="https://github.com/GTAC-ITEAM-UPV/test/network/members"><img src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/test" alt="Forks Badge"/></a>
