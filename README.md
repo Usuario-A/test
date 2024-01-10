@@ -18,3 +18,7 @@ test
 <img alt="Forks" src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/></td>
 <img alt="Issues" src="https://img.shields.io/github/issues/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/></td>
 <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GTAC-ITEAM-UPV/test?style=flat-square&labelColor=343b41"/></td>
+
+
+![GitHub all releases](https://img.shields.io/github/downloads/GTAC-ITEAM-UPV/test/total)
+
