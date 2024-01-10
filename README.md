@@ -24,3 +24,7 @@ test
 
 ![GitHub all releases](https://img.shields.io/github/downloads/GTAC-ITEAM-UPV/test/total)
 
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/GTAC-ITEAM-UPV/test)
+  ![GitHub top language](https://img.shields.io/github/languages/top/GTAC-ITEAM-UPV/test)
+  ![GitHub](https://img.shields.io/github/license/GTAC-ITEAM-UPV/test)
+
